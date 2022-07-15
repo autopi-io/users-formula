@@ -34,4 +34,4 @@ WHITE="\[\e[97m\]"
 alias ls='ls --color=auto'
 
 ### PS1 (Prompt) ###
-PS1="$GREEN\u@\h$RESET:$BLUE\w$RESET$ "
+PS1="$GREEN\u@\H$RESET:$BLUE\w$RESET$ "
